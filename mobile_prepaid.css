@@ -1,0 +1,61 @@
+.main{
+    background-color: #f3f7f8;
+}
+.r1{
+    padding: 1%;
+}
+.bill_pay{
+    border: 1px solid white;
+    margin-right: 1%;
+    background-color: white;
+}
+.bname{
+    color: #212529;
+}
+.rpp{
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 19%;
+}
+.boxi{
+    width: 90%;
+    display: block;
+}
+#but{
+    margin-top: 24px;
+    margin-left: 15%;
+    margin-bottom: 2%;
+}
+.promdiv{
+    border: 1px solid #efefef;
+    margin-bottom: 2%;
+    padding: 4px;
+}
+.r2{
+    background-color: white;
+}
+.namesp{
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.mob_ul{
+    text-decoration: none;
+}
+.mobile_operators{
+    text-decoration: none;
+    display: inline-block;
+    margin: 3%;
+}
+.r3{
+    background-color: white;
+    margin-top: 2%;
+    padding: 1%;
+}
+.queryli{
+    display: inline-block;
+    text-decoration: none;
+}
+.queryh{
+    display: flex;
+    justify-content: center;
+}
